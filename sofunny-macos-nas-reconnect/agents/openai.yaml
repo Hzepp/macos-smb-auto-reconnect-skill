@@ -1,0 +1,4 @@
+interface:
+  display_name: "macOS NAS 自动重连"
+  short_description: "自动恢复 macOS Finder 中断开的 SMB 网盘连接"
+  default_prompt: "使用 $sofunny-macos-nas-reconnect 为这台 Mac 配置 SMB 网盘自动重连。"
